@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.bak
+j2-01.md
+j3-5090laptop
+j3-laptop-token
+j3-token.md
+oaws.md
+token5090ltop
